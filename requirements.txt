@@ -1,0 +1,6 @@
+azure-functions==1.24.0
+azure-storage-blob==12.26.0
+pandas==2.2.3
+tableauserverclient==0.38
+tableauhyperapi==0.0.23135
+
